@@ -1,0 +1,12 @@
+[project]
+name = "zero2ai"
+version = "0.1.0"
+description = "A project that helps people become professional AI engineers." 
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+
+]
+
+[tool.uv]
+required-version = ">=0.6.15"
