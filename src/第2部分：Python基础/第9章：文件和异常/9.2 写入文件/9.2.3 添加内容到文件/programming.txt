@@ -1,0 +1,7 @@
+// 这是原始的文件内容。
+程序如果以'a'模式打开一个文件，写入的内容会被追加到文件的末尾，而不是覆盖原有内容。
+
+//这是程序添加后的内容
+
+I also love finding meaning in large datasets.
+I love creating apps that can run in a browser.
